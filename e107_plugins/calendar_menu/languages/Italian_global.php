@@ -2,7 +2,7 @@
 
 define("LAN_PLUGIN_CALENDAR_MENU_NAME", 			"Calendario Eventi");
 define("LAN_PLUGIN_CALENDAR_MENU_CONFIG", 			"Configura il Calendario Eventi");
-define("LAN_PLUGIN_CALENDAR_MENU_DESCRIPTION", 		"This plugin is a fully featured event calendar with calendar menu.");
+define("LAN_PLUGIN_CALENDAR_MENU_DESCRIPTION", 		"Questo plugin è completamente integrato nel plugin menu calendario");
 define("LAN_PLUGIN_CALENDAR_MENU_LINK", 			"Calendario");
 
 // Notify
